@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/fe63ad82cd0ea16571908365dcb3aff7a9715881cbeb881dba7def507d2790ea/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a67714f33736c4c6d4762346d55656a652e676966)](https://github.com/KABUYA-SINA)
+[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif )](https://github.com/KABUYA-SINA)
 <h1 align="center">Hello ! 👋, Je suis Kabuya Sina</h1>
 <h3 align="center">Une développeur web - Junior</h3>
-<img align="right" alt"eating and coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
+<img align="right" alt"eating and coding" width="400" src="https://bdsf-off.github.io/portfolio/images/front-end.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabuya-sina&label=Profile%20views&color=0e75b6&style=flat" alt="kabuya-sina" /> </p>
 
