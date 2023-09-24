@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [react-kit-chatbot](https://github.com/KABUYA-SINA/react-kit-chatbot)
+- 🔭 I’m currently working on [react-chatbot-kit](https://github.com/KABUYA-SINA/react-chatbot-kit)
 
 - 🌱 I’m currently learning **React**
 
