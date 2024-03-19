@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [futcha](https://github.com/KABUYA-SINA/futcha)
+- 🔭 I’m currently working on [Portfolio-SK](https://github.com/KABUYA-SINA/Portfolio-SK)
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with [Discovery](https://github.com/KABUYA-SINA/Discovery)
+- 🤝 I’m looking for help with [futcha](https://github.com/KABUYA-SINA/futcha)
 
 - 💬 Ask me about **React, Express, NodeJS, Javascript, sass, scss, html, css ...**
 
