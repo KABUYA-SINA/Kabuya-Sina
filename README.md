@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio-SK](https://github.com/KABUYA-SINA/Portfolio-SK)
+- 🔭 I’m currently working on [Invest](https://github.com/KABUYA-SINA/Invest)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, React-native, Python, Ts, Streamlit, Flask, Php**
 
-- 🤝 I’m looking for help with [futcha](https://github.com/KABUYA-SINA/futcha)
+- 🤝 I’m looking for help with [joker](https://github.com/KABUYA-SINA/joker)
 
-- 💬 Ask me about **React, Express, NodeJS, Javascript, sass, scss, html, css ...**
+- 💬 Ask me about **React, Express, NodeJS, Javascript, Python, sass, scss, html, css ...**
 
 - 📄 Know about my experiences [https://github.com/KABUYA-SINA](https://github.com/KABUYA-SINA)
 
